@@ -9,7 +9,6 @@ body{
     background-color: black;
 }
 main{
-    
     margin: 60px 20px 10px 20px;
 }
 /* main */
@@ -20,7 +19,14 @@ main{
 }
 
 .user, img {
-    width: 150px;
+    width: 257px;
     margin-right: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 1px;
+}
+/* footer */
+footer{
+    height: 70px;
+}
+.db{
+    background-color: gray;
 }
