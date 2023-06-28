@@ -59,3 +59,28 @@ footer{
 .end-call{
     color: red;
 }
+
+.iconcine-sopra{
+    position: absolute;
+    top: 2%;
+    right: 7%;
+    background-color: rgba(119, 116, 116, 0.6);
+    padding: 3px 1px;
+    color: white;
+    border-radius: 5px;
+}
+.iconcine-sopra-2{
+    position: absolute;
+    top: 2%;
+    right: 5%;
+    background-color: rgba(119, 116, 116, 0.6);
+    padding: 3px 1px;
+    color: white;
+    border-radius: 5px;
+}
+.testo-icone{
+    display: inline-block;
+}
+.icona-sopra{
+    display: inline-block;
+}
