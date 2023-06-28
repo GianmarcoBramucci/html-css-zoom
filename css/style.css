@@ -1,0 +1,26 @@
+/* reset */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+/* general */
+body{
+    background-color: black;
+}
+main{
+    
+    margin: 60px 20px 10px 20px;
+}
+/* main */
+.row-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user, img {
+    width: 150px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
